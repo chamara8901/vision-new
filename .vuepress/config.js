@@ -8,6 +8,12 @@ module.exports = {
             {text:'Home', link:'/'},
             {text:'Documents', link:'/documents/'}
         ],
-        sidebar:'auto',
+        sidebar:{
+            '/documents/':[
+                '',
+                'frontend',
+                'backend',
+            ]
+        }
     }
 }
