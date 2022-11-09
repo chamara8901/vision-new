@@ -12,7 +12,6 @@ module.exports = {
             '/docs/':[
                 '',
                 '_Sidebar',
-                'Test'
             ]
         }
     }
