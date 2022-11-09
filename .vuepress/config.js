@@ -10,6 +10,8 @@ module.exports = {
         ],
         sidebar:{
             '/docs/':[
+                '',
+                '_Test',
             ]
         }
     }
