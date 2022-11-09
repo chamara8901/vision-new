@@ -9,7 +9,7 @@ module.exports = {
             {text:'Documents', link:'/documents/'}
         ],
         sidebar:{
-            '/docs/':[
+            '/documents/':[
                 '',
                 '_Sidebar',
             ]
