@@ -11,7 +11,8 @@ module.exports = {
         sidebar:{
             '/docs/':[
                 '',
-                '_Test',
+                '_Sidebar',
+                'Test'
             ]
         }
     }

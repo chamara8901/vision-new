@@ -2,7 +2,7 @@
 
 
 
-## サイト見るリンク 
+## サイトを見るリンク 
 ```
 https://visionbank.github.io/Vsystem-spec/
 ```
