@@ -8,11 +8,6 @@ module.exports = {
             {text:'Home', link:'/'},
             {text:'Documents', link:'/documents/'}
         ],
-        sidebar:{
-            '/documents/':[
-                '',
-                '_Sidebar',
-            ]
-        }
+        sidebar:'auto',
     }
 }
